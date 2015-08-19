@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-datetimepicker",
+  "version": "1.0.0",
+  "description": "fork from http://www.malot.fr/bootstrap-datetimepicker",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smalot/bootstrap-datetimepicker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smalot/bootstrap-datetimepicker/issues"
+  },
+  "homepage": "https://github.com/smalot/bootstrap-datetimepicker"
+}
